@@ -1,7 +1,7 @@
 <?php
 /***************************************************************************************/
 /*----- Auteur :        Aubertin Emmanuel                                           ****/
-/*----- Description :   Inclusion de config et declaration du <head>                ****/
+/*----- Description :   Example page for EasyApache                                 ****/
 /*----- GitHub :        https://github.com/Athomisos | Twitter : @BlenderAubertin   ****/
 /***************************************************************************************/
 ?>
@@ -9,8 +9,8 @@
 <html>
     <head>
         <!-----| Metadata |------>
-            <!-- Titre -->              <title>EasyApache Example</title> 
-            <!-- Favicon -->            <!-- <link rel="icon" type="image/png" href="img/favicon.png">  -->
+            <!-- Titre -->              <title>EasyApache</title> 
+            <!-- Favicon -->            <link rel="icon" type="image/png" href="/tux.png">
             <!-- Set UTF -->            <meta charset="UTF-8">
 
         <!-----| CSS |------>
